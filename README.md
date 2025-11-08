@@ -4,6 +4,8 @@
 
 An immersive full-stack application that captures speech, analyzes emotions, and transforms them into dynamic visual art using Perlin noise flow fields.
 
+please use this link to see the project in action: https://aura-sentiment.vercel.app/
+
 ![Tech Stack](https://img.shields.io/badge/React-18-blue?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-Express-green?logo=node.js) ![Deepgram](https://img.shields.io/badge/Deepgram-WebSocket-orange) ![Groq](https://img.shields.io/badge/Groq-Llama%203.1-purple) ![p5.js](https://img.shields.io/badge/p5.js-Visualization-pink)
 
 ---
