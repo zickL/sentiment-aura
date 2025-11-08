@@ -1,0 +1,9 @@
+{
+  "short_name": "Sentiment Aura",
+  "name": "Sentiment Aura - Real-time Sentiment Analysis",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
+

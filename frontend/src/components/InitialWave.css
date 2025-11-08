@@ -1,0 +1,24 @@
+
+.initial-wave-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 0;
+  pointer-events: none;
+  background: #0a0a14;
+}
+
+.initial-wave-canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  /* 🚀 硬件加速优化 */
+  will-change: contents;
+  transform: translateZ(0);
+}
+

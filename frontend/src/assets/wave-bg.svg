@@ -1,0 +1,81 @@
+<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="120" fill="#0a1929"/>
+  <g opacity="0.8">
+    <!-- 声波条纹 -->
+    <rect x="25" y="70" width="2" height="10" fill="#6B7A8F"/>
+    <rect x="30" y="65" width="2" height="20" fill="#7B8A9F"/>
+    <rect x="35" y="60" width="2" height="30" fill="#8B9AAF"/>
+    <rect x="40" y="50" width="2" height="50" fill="#9BAABF"/>
+    <rect x="45" y="40" width="2" height="70" fill="#ABBACD"/>
+    <rect x="50" y="30" width="2" height="90" fill="#BBCADD"/>
+    <rect x="55" y="20" width="2" height="110" fill="#CBD9E8"/>
+    <rect x="60" y="25" width="2" height="100" fill="#BBCADD"/>
+    <rect x="65" y="35" width="2" height="80" fill="#ABBACD"/>
+    <rect x="70" y="45" width="2" height="60" fill="#9BAABF"/>
+    <rect x="75" y="55" width="2" height="40" fill="#8B9AAF"/>
+    <rect x="80" y="60" width="2" height="30" fill="#7B8A9F"/>
+    <rect x="85" y="65" width="2" height="20" fill="#6B7A8F"/>
+    <rect x="90" y="68" width="2" height="14" fill="#5B6A7F"/>
+    
+    <!-- 重复声波模式 -->
+    <rect x="115" y="68" width="2" height="14" fill="#5B6A7F"/>
+    <rect x="120" y="65" width="2" height="20" fill="#6B7A8F"/>
+    <rect x="125" y="60" width="2" height="30" fill="#7B8A9F"/>
+    <rect x="130" y="50" width="2" height="50" fill="#8B9AAF"/>
+    <rect x="135" y="40" width="2" height="70" fill="#9BAABF"/>
+    <rect x="140" y="30" width="2" height="90" fill="#ABBACD"/>
+    <rect x="145" y="25" width="2" height="100" fill="#BBCADD"/>
+    <rect x="150" y="20" width="2" height="110" fill="#CBD9E8"/>
+    <rect x="155" y="25" width="2" height="100" fill="#BBCADD"/>
+    <rect x="160" y="35" width="2" height="80" fill="#ABBACD"/>
+    <rect x="165" y="45" width="2" height="60" fill="#9BAABF"/>
+    <rect x="170" y="55" width="2" height="40" fill="#8B9AAF"/>
+    <rect x="175" y="60" width="2" height="30" fill="#7B8A9F"/>
+    
+    <!-- 中间带颜色的声波 -->
+    <rect x="250" y="70" width="2" height="10" fill="#A3B6C5"/>
+    <rect x="255" y="65" width="2" height="20" fill="#C9DECF"/>
+    <rect x="260" y="55" width="2" height="40" fill="#E098AE"/>
+    <rect x="265" y="45" width="2" height="60" fill="#FCA652"/>
+    <rect x="270" y="35" width="2" height="80" fill="#FF6B35"/>
+    <rect x="275" y="25" width="2" height="100" fill="#FF8C42"/>
+    <rect x="280" y="15" width="2" height="120" fill="#FCE9DA"/>
+    <rect x="285" y="20" width="2" height="110" fill="#FF8C42"/>
+    <rect x="290" y="30" width="2" height="90" fill="#FF6B35"/>
+    <rect x="295" y="40" width="2" height="70" fill="#FCA652"/>
+    <rect x="300" y="50" width="2" height="50" fill="#E098AE"/>
+    <rect x="305" y="60" width="2" height="30" fill="#C9DECF"/>
+    <rect x="310" y="65" width="2" height="20" fill="#A3B6C5"/>
+    
+    <!-- 右侧带绿色的声波 -->
+    <rect x="380" y="68" width="2" height="14" fill="#A3B6C5"/>
+    <rect x="385" y="65" width="2" height="20" fill="#C9DECF"/>
+    <rect x="390" y="60" width="2" height="30" fill="#B5E48C"/>
+    <rect x="395" y="55" width="2" height="40" fill="#99D98C"/>
+    <rect x="400" y="45" width="2" height="60" fill="#76C893"/>
+    <rect x="405" y="35" width="2" height="80" fill="#52B69A"/>
+    <rect x="410" y="25" width="2" height="100" fill="#34A0A4"/>
+    <rect x="415" y="20" width="2" height="110" fill="#168AAD"/>
+    <rect x="420" y="25" width="2" height="100" fill="#34A0A4"/>
+    <rect x="425" y="35" width="2" height="80" fill="#52B69A"/>
+    <rect x="430" y="45" width="2" height="60" fill="#76C893"/>
+    <rect x="435" y="55" width="2" height="40" fill="#99D98C"/>
+    <rect x="440" y="60" width="2" height="30" fill="#B5E48C"/>
+    
+    <!-- 最右侧声波 -->
+    <rect x="505" y="70" width="2" height="10" fill="#6B7A8F"/>
+    <rect x="510" y="65" width="2" height="20" fill="#7B8A9F"/>
+    <rect x="515" y="60" width="2" height="30" fill="#8B9AAF"/>
+    <rect x="520" y="50" width="2" height="50" fill="#9BAABF"/>
+    <rect x="525" y="40" width="2" height="70" fill="#ABBACD"/>
+    <rect x="530" y="30" width="2" height="90" fill="#BBCADD"/>
+    <rect x="535" y="25" width="2" height="100" fill="#CBD9E8"/>
+    <rect x="540" y="30" width="2" height="90" fill="#BBCADD"/>
+    <rect x="545" y="40" width="2" height="70" fill="#ABBACD"/>
+    <rect x="550" y="50" width="2" height="50" fill="#9BAABF"/>
+    <rect x="555" y="60" width="2" height="30" fill="#8B9AAF"/>
+    <rect x="560" y="65" width="2" height="20" fill="#7B8A9F"/>
+    <rect x="565" y="70" width="2" height="10" fill="#6B7A8F"/>
+  </g>
+</svg>
+
