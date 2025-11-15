@@ -456,16 +456,3 @@ project demonstrating:
 ---
 
 **⭐ If you found this project interesting, please star the repo!**
-
----
-
-## 🔗 Quick Links
-
-- [Live Demo](#) *(Add link after deployment)*
-- [Video Demo](#) *(Optional: Loom/YouTube walkthrough)*
-- [Technical Deep Dive](./ARCHITECTURE_DECISION.md)
-- [Deployment Guide](./DEPLOYMENT_GUIDE.md)
-
----
-
-**Enjoy exploring the intersection of emotion, AI, and art! 🎨🧠🎤**
